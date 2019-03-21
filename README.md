@@ -1,1 +1,1 @@
-# Some of my projects in go language
+# Some of my solutions in haskell lang
